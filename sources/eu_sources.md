@@ -1,16 +1,15 @@
 # Data Sources — European Union
 
-## Primary Legislative Sources
+## EU Official Sources
 
-- EUR-Lex — Official Journal of the European Union  
-  https://eur-lex.europa.eu  
-  License: © European Union, reuse permitted under EU Open Data rules
+European Union — EUR-Lex
+- Publisher: Publications Office of the European Union
+- Content Type: Regulations, Directives, Decisions, Implementing Acts
+- Access Method: Official EUR-Lex APIs and HTML endpoints
+- Base URL: https://eur-lex.europa.eu
+- License: EU Open Data Directive
+- Notes: Only officially published metadata and summaries are used. Full legal texts are linked, not redistributed.
 
-- legislation.gov.uk (EU retained & reference copies)  
-  https://www.legislation.gov.uk  
-  License: Crown copyright, Open Government Licence v3.0
-
-## Notes
-- This repository contains metadata and summaries only
-- No scraping is performed
-- All data is derived from official government sources
+Only metadata and summaries are processed. Full legal texts are not redistributed.
+No scraping is performed.
+All underlying source documents remain the property of their respective issuing authorities
