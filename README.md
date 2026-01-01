@@ -1,5 +1,10 @@
 # EU-AI-REGULATION-FEED
 
+## Current Release
+- Version: v1.0
+- Status: Frozen
+
+
 ## Schema Governance
 
 This repository uses a locked metadata schema.
