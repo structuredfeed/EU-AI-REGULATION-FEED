@@ -90,4 +90,5 @@ Underlying regulatory texts remain subject to their issuing authorities.
 This schema lock is effective as of:
 
 Release: v1.0
+
 Date: 01st January 2026
