@@ -1,5 +1,12 @@
 # EU-AI-REGULATION-FEED
 
+## Schema Governance
+
+This repository uses a locked metadata schema.
+The schema is frozen as of v1.0 and governed by the Schema Lock Declaration.
+
+See: `SCHEMA_LOCK.md`
+
 ## Compatibility Statement
 This repository aggregates metadata derived from official public-sector sources.
 - US sources: US Government works, public domain
