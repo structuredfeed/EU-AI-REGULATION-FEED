@@ -1,15 +1,15 @@
 {
-  "title": "The Automated Vehicles Act 2024 (Commencement No. 1) Regulations 2025",
+  "title": "Commission Implementing Regulation (EU) 2020/1995 of 4 December 2020 concerning the non-renewal of approval of the active substance iodine based products (Text with EEA relevance)",
   "jurisdiction": "European Union",
   "document_type": "EuropeanUnionLegislation",
-  "year": 2025,
-  "publication_date": "2025-12-15",
-  "last_updated": "2025-12-18T03:05:48Z",
+  "year": 2020,
+  "publication_date": "2020-12-04",
+  "last_updated": "2025-10-04T18:32:45Z",
   "source_agency": "European Union",
-  "summary": "These Regulations are the first commencement Regulations made under the Automated Vehicles Act 2024 (c. 10) (\u201cthe Act\u201d). They bring into force specified provisions of the Act.",
+  "summary": "Commission Implementing Regulation (EU) 2020/1995 concerning the non-renewal of approval of iodine-based products.",
   "relevance_to_digital": "No explicit reference to digital systems.",
-  "relevance_to_data": "No explicit reference to data governance.",
+  "relevance_to_data": "Addresses processing, sharing, or governance of data.",
   "relevance_to_ai": "Artificial intelligence is not explicitly referenced.",
-  "official_url": "http://www.legislation.gov.uk/uksi/2025/1339/made/data.xml",
+  "official_url": "http://www.legislation.gov.uk/eur/2020/1995/2020-12-04/data.xml",
   "source": "legislation.gov.uk"
 }
