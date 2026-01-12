@@ -27,6 +27,9 @@ The National Archives (UK) — Retained & Referenced EU Law
 - Notes:
   - This source is used only where EU legislation is:
   - Retained in UK law
+  - legislation.gov.uk is used only as a mirror for original European Union legal instruments (EU
+    Regulations, Directives, Decisions).
+    UK Acts, Statutory Instruments, and UK-retained EU law are explicitly excluded from the EU dataset.
 
 Referenced for continuity, amendment history, or cross-jurisdictional comparison
 No UK-only interpretation is inferred for EU-only instruments.
